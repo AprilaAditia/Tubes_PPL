@@ -187,4 +187,9 @@ class TagihanController extends Controller
         flash('Data Berhasil Dihapus')->success();
         return back();
     }
+
+    public function buat(string $id)
+    {
+
+    }
 }
