@@ -188,10 +188,7 @@ class TagihanController extends Controller
         return back();
     }
 
-    public function buat(string $id)
-    {
-
-    }
+    
 
 
     
