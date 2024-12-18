@@ -55,7 +55,5 @@ class PembayaranNotification extends Notification
         ];
     }
 
-    public function toArray(object $notifiable): arrai
-    {
-    }
+   
 }

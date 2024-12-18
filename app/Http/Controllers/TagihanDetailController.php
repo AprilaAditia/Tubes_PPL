@@ -64,8 +64,5 @@ class TagihanDetailController extends Controller
         //
     }
 
-    public function (TagihanBaru $tagihanbaru)
-    {
-        //
-    }
+    
 }
