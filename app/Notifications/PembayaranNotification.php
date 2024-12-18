@@ -54,4 +54,8 @@ class PembayaranNotification extends Notification
             'url' => route('pembayaran.show', $this->pembayaran->id),
         ];
     }
+
+    public function toArray(object $notifiable): arrai
+    {
+    }
 }
